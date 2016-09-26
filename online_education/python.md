@@ -16,7 +16,8 @@
 
 ## Задачи
 
-[Python in Action](https://stepic.org/course/431) — набор задач на языке Python. Сложность задач варьируется от начальной до высокой. Курс можно пройти в специальном адаптивном режиме.
+[Адаптивный тренажер Python (Stepik)](https://stepic.org/course/431) — набор задач на языке Python. Сложность задач варьируется от начальной до высокой. Курс можно пройти в специальном адаптивном режиме.  
+[Adaptive Python (Stepik)](https://stepik.org/course/568/) — адаптивные задачи от JetBrains. Сложность варьируется в зависимости от вашего уровня.  
 [Python Challenges](http://www.pythonchallenge.com) — задачи, постепенно возрастающие по сложности.
 
 
@@ -24,4 +25,4 @@
 
 Для дополнительного изучения.
 
-[Типичный программист — Материалы для изучения Python](http://tproger.ru/digest/python-materials/)
+[Типичный программист (Материалы для изучения Python)](http://tproger.ru/digest/python-materials/)
