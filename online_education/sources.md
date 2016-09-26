@@ -26,15 +26,19 @@
 
 
 #### [Coursera](https://www.coursera.org)  
-[МФТИ](https://www.coursera.org/mipt) — Специализация по анализу данных (совместно с Яндексом).  
-[ВШЭ](https://www.coursera.org/hse) — Математика и эконометрика (+ LaTeX).  
-[Российские университеты на Coursera](https://www.coursera.org/about/partners/ru)  
+
+Поставщики на Coursera:   
+* [МФТИ](https://www.coursera.org/mipt) — Специализация по анализу данных (совместно с Яндексом).  
+* [ВШЭ](https://www.coursera.org/hse) — Математика и эконометрика (+ LaTeX).  
+* [Российские университеты на Coursera](https://www.coursera.org/about/partners/ru)  
 
 
 #### [edX](https://www.edx.org/)  
-[MITx](https://www.edx.org/school/mitx) — Computer science.  
-[UC BerkeleyX](https://www.edx.org/school/uc-berkeleyx) — Statictics and big data.  
-[LinuxFoundationX](https://www.edx.org/school/linuxfoundationx) — Linux.  
+
+Поставщики на edX:  
+* [MITx](https://www.edx.org/school/mitx) — Computer science.  
+* [UC BerkeleyX](https://www.edx.org/school/uc-berkeleyx) — Statictics and big data.  
+* [LinuxFoundationX](https://www.edx.org/school/linuxfoundationx) — Linux.  
 
 
 ## Рекомендации
