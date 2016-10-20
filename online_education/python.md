@@ -1,11 +1,15 @@
 # Python
 
+<img src="./img/true_python.jpg" width="450">
+
+
 ## Курсы
 
 [Программирование на Python](https://stepic.org/course/Программирование-на-Python-67) — [Bioinformatics Institute](https://stepic.org/users/651763/teach) / [Stepik](https://stepik.org/)  
 [Google's Python Class](https://developers.google.com/edu/python/) — Google  
 [Python: основы и применение](https://stepic.org/course/Python-основы-и-применение-512) — [Bioinformatics Institute](https://stepic.org/users/651763/teach) / [Stepik](https://stepik.org/)  
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x) — MITx / [edX](https://www.edx.org/)  
+
 
 ## Порталы
 
@@ -24,7 +28,5 @@
 
 
 ## Ссылки
-
-Для дополнительного изучения.
 
 [Типичный программист (Материалы для изучения Python)](http://tproger.ru/digest/python-materials/)
