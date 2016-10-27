@@ -5,7 +5,7 @@
 
 ## Ссылки
 
-[Расписание](http://nnov.hse.ru/fpppks/uvb) — от 09.06.2016  
+[Расписание](http://nnov.hse.ru/fpppks/uvb) — от 25.10.2016  
 [#ВШЭ_Файлы](https://yadi.sk/d/hfD7mBC9kQjUa)  
 [HSE LMS](http://lms.hse.ru/)  
 
