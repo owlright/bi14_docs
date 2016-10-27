@@ -6,7 +6,7 @@
 ## Ссылки
 
 [Расписание](http://nnov.hse.ru/fpppks/uvb) — от 25.10.2016  
-[#ВШЭ_Файлы](https://yadi.sk/d/hfD7mBC9kQjUa)  
+[#ВШЭ_Файлы](https://yadi.sk/d/Y8Cwc88uxgXT5)  
 [HSE LMS](http://lms.hse.ru/)  
 
 [Забашта Наталья Павловна](http://www.hse.ru/org/persons/202023) — НП  
