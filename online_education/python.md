@@ -5,9 +5,9 @@
 
 ## Курсы
 
-[Программирование на Python](https://stepic.org/course/Программирование-на-Python-67) — [Bioinformatics Institute](https://stepic.org/users/651763/teach) / [Stepik](https://stepik.org/)  
+[Программирование на Python](https://stepik.org/course/67) — [Bioinformatics Institute](https://stepik.org/users/651763/teach) / [Stepik](https://stepik.org/)  
 [Google's Python Class](https://developers.google.com/edu/python/) — Google  
-[Python: основы и применение](https://stepic.org/course/Python-основы-и-применение-512) — [Bioinformatics Institute](https://stepic.org/users/651763/teach) / [Stepik](https://stepik.org/)  
+[Python: основы и применение](https://stepik.org/course/512) — [Bioinformatics Institute](https://stepik.org/users/651763/teach) / [Stepik](https://stepik.org/)  
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x) — MITx / [edX](https://www.edx.org/)  
 
 
