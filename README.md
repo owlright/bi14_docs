@@ -6,14 +6,14 @@
 ## Ссылки
 
 [Расписание](http://nnov.hse.ru/fpppks/uvb) — от 15.11.2016  
-[#ВШЭ_Файлы](https://yadi.sk/d/Y8Cwc88uxgXT5)  
+[ВШЭ_Файлы](https://yadi.sk/d/Y8Cwc88uxgXT5)  
 [HSE LMS](http://lms.hse.ru/)  
 
-[Забашта Наталья Павловна](http://www.hse.ru/org/persons/202023) — НП  
-[Рожкова Мария Николаевна](http://www.hse.ru/org/persons/201661) — Заместитель декана: по вопросам оплаты  
+[Забашта Наталья Павловна](http://www.hse.ru/org/persons/202023)  
+[Факультет подготовки, переподготовки и повышения квалификации специалистов (Нижний Новгород)](https://nnov.hse.ru/fpppks)  
 
-[Отдел развития карьеры](https://vk.com/hsenn_career) /ВШЭ НН /ВКонтакте  
 [IT факультет](https://vk.com/hsennit) /ВШЭ НН /ВКонтакте  
+[Отдел развития карьеры](https://vk.com/hsenn_career) /ВШЭ НН /ВКонтакте  
 
 [Онлайн обучение](online_education/README.md) — Ссылки на курсы и материалы  
 
